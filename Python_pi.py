@@ -4,7 +4,7 @@ k = 1
 # Initialize sum
 s = 0
  
-for i in range(1000000000):
+for i in range(10000000):
  
     # even index elements are positive
     if i % 2 == 0:
